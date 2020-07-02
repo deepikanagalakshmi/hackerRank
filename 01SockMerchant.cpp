@@ -34,7 +34,7 @@ int main(){
          }
    }
    
-//Displaying the total no of pair
+ //Displaying the total no of pair
   
   for(int i=0;i<n;i++){
         if(freq[i]!=-1 && freq[i]/2 >=1 ){
